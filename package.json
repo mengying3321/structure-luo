@@ -1,0 +1,23 @@
+{
+  "name": "structure-luo",
+  "version": "1.0.0",
+  "description": "GitBook Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mengying3321/structure-luo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mengying3321/structure-luo/issues"
+  },
+  "homepage": "https://github.com/mengying3321/structure-luo#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
